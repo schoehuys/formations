@@ -12,16 +12,15 @@
 6. Ajout d'une table : importez le fichier catalogue_exercice.csv dans votre fichier
 
 ## Lier les données
-7. Lier les tables CATALOGUE et TYPE_DE_DOCUMENT entre elles
+7. Choisir le bon type de colonne pour lier les tables CATALOGUE et TYPE_DE_DOCUMENT entre elles
 8. Filtrer les documents sur leurs types : combien sont non empruntables et combien sont des oeuvres pour la jeunesse ?
 9. Fixer le filtre pour ne plus voir les documents non empruntables
-10. Créer une table qui reflète les emprunts des usagers, leurs statuts (emprunté, rendu) et ajouter des lignes
-11. Faire préceder le nom de la nouvelle table par un emoji comme celui-ci : 🎆
+10. Créer une colonne dans la table USAGERS qui permette de voir les documents empruntés par personne en référençant leurs cotes et créer une fiche qui donne le reste des informations des documents empruntés 
+11. Faire préceder le nom d'une table par un emoji comme celui-ci : 🎆
 
 ## Mise en page 
 12. Dans la table CATALOGUE, mettre en surbrillance les documents qui sont empruntés
-13. Ajouter une page fiche pour les usagers qui permette de voir les ouvrages qu'ils ont empruntés
 
 ## Permissions et rôles 
-14. Ajouter un usager comme Lecteur
-15. Attribuer des droits de modification à l'usager en cliquant sur "permissions avancées" sur la table Catalogue et l'empêcher de voir toute autre table
+13. Ajouter un usager comme Lecteur
+14. Attribuer des droits de modification à l'usager en cliquant sur "permissions avancées" sur la table Catalogue et l'empêcher de voir toute autre table
